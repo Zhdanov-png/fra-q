@@ -1,0 +1,15 @@
+user (как при реге в соцсеть)
+
+friends - id, user_id, fried_id, status (wait, friend, blocked)
+
+community (сообщества) (id,
+
+user_community (id, user_id, user_community, status(wait, member, blocked)
+
+photos (id, link,info)
+
+user_photo (id, user_id, photo_id)
+
+media (музыка, видео) 
+ 
+ 
